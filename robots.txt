@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /account
+Disallow: /account/
+Disallow: /api
+Disallow: /api/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /onboarding
+Disallow: /onboarding/
+Disallow: /ads/
+
+Host: https://postify.tech
+Sitemap: https://postify.tech/sitemap.xml
